@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Kailh")(type "KiCad")(uri "${KIPRJMOD}/Switch_Keyboard_Kailh.pretty")(options "")(descr ""))
+  (lib (name "ChocV2Stabs")(type "KiCad")(uri "${KIPRJMOD}/ChocV2Stabs.pretty")(options "")(descr ""))
+  (lib (name "foostan-parts")(type "KiCad")(uri "${KIPRJMOD}/foostan-parts.pretty")(options "")(descr ""))
+  (lib (name "acheron_MX_PlateSlots")(type "KiCad")(uri "${KIPRJMOD}/acheron_MX_PlateSlots.pretty")(options "")(descr ""))
+)

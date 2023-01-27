@@ -1,0 +1,3156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\Github\Ortholith\Ortholith v03\Ortholith.kicad_sch</source>
+    <date>1/5/2023 9:03:49 PM</date>
+    <tool>Eeschema (6.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Ortholith.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>288e73d7-5e5f-40b1-87d6-3f28ed2da7c3</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06e4a5d8-f238-4958-944b-bb7c28cfd524</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c88378b-0eb1-4375-98da-e07cad91e94f</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>781565b7-972a-4c2d-946b-304441f529bf</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da60fd63-849a-4ba3-a695-a0ceaa5ad547</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d60d0ec-2cf8-418e-ad11-799495782133</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>153597e4-7078-41bc-a2dc-5d4892deba84</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>454acb1b-7d98-44a3-9e6d-ea30be789560</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c743e916-402f-4619-adc7-df170c4e9a9d</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f89dff00-1834-4e6f-9feb-3517640c5c0f</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c10366d8-16f5-4c08-8ca4-66d6c1baa3b1</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>190c5553-18ca-492c-80df-243fd0e2f83e</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>698e1948-86f1-4344-8e7f-6ead58502dd2</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2dd23e0-386b-41dd-8ea2-4285a88b5e6b</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbbe601e-a6e5-4a1a-8b8d-afadc789cae0</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>200c19d2-9d24-4fc4-bb10-a57ab69ef8e0</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee5dc8c1-80d9-4ec0-9795-c03d7d7f54a7</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23b5636c-7fb0-4fe7-9c67-ee312734904a</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8474deb7-4ab1-4d7f-aa17-58fc880c999f</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74378716-32f9-4e8f-914b-87fa6ef57d58</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48646d8d-155f-4293-9cfd-f871cbb02697</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b346ff6-a6c5-4526-b573-777bacc418b7</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c342aed-8f29-4ac8-9613-52ab6c7fc6de</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef159680-eeee-4096-a8d9-945ef01e436c</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7597184-5c68-4b8e-830c-471d71e5afc0</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08378400-9ce7-48d1-856a-066b1c9a47bf</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12e29857-2355-43b5-9295-20134c109936</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e4693ff-f193-48e0-ae89-e30315bb203a</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98fc27a6-d77b-4b19-ae39-bbfa1df0e22b</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>020e48b6-0451-43bd-9e63-6a6cac418b73</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92da4f0d-1f17-4ede-a503-886449297f45</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc073e0f-2694-4255-b437-8281087d4b01</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19e9ddda-f933-44a2-8bbf-4a63a308be4d</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed6120f5-2426-45dd-9fe6-1428ec28283a</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d76c1c41-2586-4262-9859-47209b560a59</tstamps>
+    </comp>
+    <comp ref="D36">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92a524b5-d8bf-4eaf-aa83-f323d59c3325</tstamps>
+    </comp>
+    <comp ref="D37">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b272303-e8a1-44a1-8a3e-c110ec02a30d</tstamps>
+    </comp>
+    <comp ref="D38">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>623ab18a-442d-42a6-961e-b264ddd8e123</tstamps>
+    </comp>
+    <comp ref="D39">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>766c07e7-345b-4f79-bc7f-0854ddc72660</tstamps>
+    </comp>
+    <comp ref="D40">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2a8a5bf-95e7-48d3-ac78-6bd91fae9e01</tstamps>
+    </comp>
+    <comp ref="D41">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41c19d8a-fc43-46d8-8bb0-d91ff5615325</tstamps>
+    </comp>
+    <comp ref="D42">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcd881c3-83a3-477f-b666-4c086ab1a7ff</tstamps>
+    </comp>
+    <comp ref="D43">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d58b290-42b6-40c0-b6fd-aca8b54acd6d</tstamps>
+    </comp>
+    <comp ref="D44">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b805f466-203c-4046-839d-a327def078fc</tstamps>
+    </comp>
+    <comp ref="D45">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1d7eba7-57ea-4211-89a8-a8465bf79f34</tstamps>
+    </comp>
+    <comp ref="D46">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>446d4167-320a-4732-9b3f-b251f97f9c94</tstamps>
+    </comp>
+    <comp ref="D47">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7335e8c4-4fdf-4140-ae8c-3a5bc306e132</tstamps>
+    </comp>
+    <comp ref="D48">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8bb3faa-dfde-4501-b746-aba749fda420</tstamps>
+    </comp>
+    <comp ref="D49">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>158ead2b-667c-4f7a-b130-0aed355f669e</tstamps>
+    </comp>
+    <comp ref="D50">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8312e328-e6d7-4c5c-97b8-71825c4f3a3d</tstamps>
+    </comp>
+    <comp ref="D51">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c677162-1a32-42e1-af94-bacaf9c132b0</tstamps>
+    </comp>
+    <comp ref="D52">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b69d6c77-e54a-4dd2-bc02-fb5842ada6bf</tstamps>
+    </comp>
+    <comp ref="D53">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>897a3f9c-c72a-4e53-ad87-c574ce7e528f</tstamps>
+    </comp>
+    <comp ref="D54">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40aadb78-c484-4762-8556-ee49a574b824</tstamps>
+    </comp>
+    <comp ref="D55">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4eb71ea5-021a-4d7d-b195-b90fefa0aed3</tstamps>
+    </comp>
+    <comp ref="D56">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e40556f-c6a9-4089-8bab-0d9b8e1caf5b</tstamps>
+    </comp>
+    <comp ref="D57">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca671e54-6a74-4fb8-9b52-0a0d863ede31</tstamps>
+    </comp>
+    <comp ref="D58">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e45801bf-1704-4b02-9e5c-181d45984469</tstamps>
+    </comp>
+    <comp ref="D59">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c8d0596-3941-45f5-ba4b-9a393b7a2b8c</tstamps>
+    </comp>
+    <comp ref="D60">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b729490-e761-4965-8951-2cf5ccb14354</tstamps>
+    </comp>
+    <comp ref="D61">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d88775d-ab82-4e33-9753-14377046b026</tstamps>
+    </comp>
+    <comp ref="D62">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ac1d968-f550-4131-a82a-37531a4d1ceb</tstamps>
+    </comp>
+    <comp ref="D63">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ad51f73-bc62-4236-955f-79dce41491a8</tstamps>
+    </comp>
+    <comp ref="D64">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6084de06-1159-472f-bb31-8dbcc389bedd</tstamps>
+    </comp>
+    <comp ref="D65">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d10a9d7-6052-472a-ac32-e31b799a1833</tstamps>
+    </comp>
+    <comp ref="D66">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85c68405-dfd1-4c28-931e-68cf4878ec18</tstamps>
+    </comp>
+    <comp ref="D67">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e5ecc93-ea48-450a-9c1e-1d3653ac9ca5</tstamps>
+    </comp>
+    <comp ref="D68">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>adaf847e-0232-46f0-8b96-5703c0ba037b</tstamps>
+    </comp>
+    <comp ref="D69">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>161d53e2-0159-43af-97b0-c2a23aa74fc0</tstamps>
+    </comp>
+    <comp ref="D70">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>888d4e28-983b-467f-9554-782c67016424</tstamps>
+    </comp>
+    <comp ref="D71">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6cadd55-02c4-4072-9e0d-751997b91bd0</tstamps>
+    </comp>
+    <comp ref="D72">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c98aeb65-cda4-4901-a7f9-0d516369cdc5</tstamps>
+    </comp>
+    <comp ref="D73">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf6ac095-d8dd-4637-8527-08cbdcef98c8</tstamps>
+    </comp>
+    <comp ref="D74">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>372042c4-6552-4da7-86dc-f123d9db71e0</tstamps>
+    </comp>
+    <comp ref="D75">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e51cf142-18df-42b8-ab6f-1c9328ba60cb</tstamps>
+    </comp>
+    <comp ref="D76">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b066f7a-ee99-4155-a67c-d2d665b48a1d</tstamps>
+    </comp>
+    <comp ref="D77">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ac2f5c2-a121-4c0a-93ee-00b27b8394af</tstamps>
+    </comp>
+    <comp ref="D78">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da13b424-b128-436d-92c8-bd0b7681f69e</tstamps>
+    </comp>
+    <comp ref="D79">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9312d528-4005-4ca1-8bb5-1834434533d8</tstamps>
+    </comp>
+    <comp ref="D80">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60272081-53b8-4c85-a379-519b928259e5</tstamps>
+    </comp>
+    <comp ref="D81">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>866b63d8-eb41-43b8-98eb-85d38becd653</tstamps>
+    </comp>
+    <comp ref="D82">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b35b0b7-ee1d-4bf5-8946-6bbdb265ea32</tstamps>
+    </comp>
+    <comp ref="D83">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb9f066f-fc02-4377-93c8-82328900ac66</tstamps>
+    </comp>
+    <comp ref="D84">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6d917a1-11f7-48b3-bb89-a0fb0cee7dd0</tstamps>
+    </comp>
+    <comp ref="D85">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>849e1bd0-1c0c-4bfc-a912-26bc584b4f74</tstamps>
+    </comp>
+    <comp ref="D86">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd5f7bc0-f725-486b-8c84-12205f4ea42f</tstamps>
+    </comp>
+    <comp ref="D87">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56767e1c-d9f3-439c-a65d-521e4e35d0d8</tstamps>
+    </comp>
+    <comp ref="D88">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05df4658-552f-4185-b4c4-d402e7950138</tstamps>
+    </comp>
+    <comp ref="D89">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1924e376-6c88-4068-b45b-89ce4561ec06</tstamps>
+    </comp>
+    <comp ref="D90">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a04b07f7-9f67-4ac9-8288-d88b03298cf5</tstamps>
+    </comp>
+    <comp ref="D91">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f6c60d0-449d-49bf-a3e6-7e2d37ac613b</tstamps>
+    </comp>
+    <comp ref="D92">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a901a0c3-744f-4e2f-9b5b-3896dfd47de0</tstamps>
+    </comp>
+    <comp ref="D93">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09b9494d-3539-4959-a6f4-8cc1c85f3920</tstamps>
+    </comp>
+    <comp ref="D94">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88c5b77d-d663-4b93-a215-8c3e699869b0</tstamps>
+    </comp>
+    <comp ref="D95">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e3e0db0-eacd-494c-b18f-f3a00db3c4ec</tstamps>
+    </comp>
+    <comp ref="D96">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>115fc40a-342b-4569-a14a-73456c22bd99</tstamps>
+    </comp>
+    <comp ref="D97">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9ffdbf7-3691-4e4e-87c5-9c88663adc7a</tstamps>
+    </comp>
+    <comp ref="D98">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8922d289-155f-4d60-b761-d6235de0bad9</tstamps>
+    </comp>
+    <comp ref="D99">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68a45c12-ee15-48c0-9a9c-566b5ea36800</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>OLED</value>
+      <footprint>Keebio-Parts:128x64OLED</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>301e7de3-c2fe-4889-b802-96ea9fdf4dcd</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54a349f8-29ef-4090-8fbf-e7a58d253525</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5caca81a-0a53-46d3-8c5b-8d39f0574bb2</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bf2c38e-c35e-44a3-b93a-8a8f77e6d5e3</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98c24523-ee49-4d6d-9ea2-3d44514580d8</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9b636c8-f17d-45e1-963d-251f8a27cd6f</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b7d6ce9-6594-4392-92b1-6588e6daa0ac</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08489ddd-ed50-45e0-a056-3afd5fa416e0</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3846b6a0-40c2-44c8-bb84-af99aaf5bbea</tstamps>
+    </comp>
+    <comp ref="SW9">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d073915-7fcf-4e4b-a5bf-0b84d0b88b62</tstamps>
+    </comp>
+    <comp ref="SW10">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56c79953-060f-4bff-bd01-05c8a579d2f1</tstamps>
+    </comp>
+    <comp ref="SW11">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f53c63b8-3ace-4c19-9257-aeff21b516dd</tstamps>
+    </comp>
+    <comp ref="SW12">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0995bb10-0103-48d9-8811-05c8f21edb4c</tstamps>
+    </comp>
+    <comp ref="SW13">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2ccf879-c580-440f-a611-89d37dd27b8c</tstamps>
+    </comp>
+    <comp ref="SW14">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6111c577-9864-4906-a3d3-980b0857e4ab</tstamps>
+    </comp>
+    <comp ref="SW15">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>219ba0e7-a069-4386-ad8f-3922a059ba15</tstamps>
+    </comp>
+    <comp ref="SW15-2u1">
+      <value>2U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6784908-9929-4297-a3f1-eb2b26419d11</tstamps>
+    </comp>
+    <comp ref="SW16">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98672257-b01f-47fd-b2ee-c65bdfbca7b8</tstamps>
+    </comp>
+    <comp ref="SW17">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>217afcf1-008f-4eef-bfef-33637d3a17b0</tstamps>
+    </comp>
+    <comp ref="SW18">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>187e7fc0-aa27-4e12-b275-adb9d467b881</tstamps>
+    </comp>
+    <comp ref="SW19">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f0d06a8-7367-45f6-b529-c7bf5ce9d338</tstamps>
+    </comp>
+    <comp ref="SW20">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0ed4e98-6f38-4bad-80e5-fb7df14377e1</tstamps>
+    </comp>
+    <comp ref="SW21">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9bcd6a4e-3681-4884-9a14-f7da47c513c0</tstamps>
+    </comp>
+    <comp ref="SW22">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dbe53dcf-c0f3-4b90-b872-4a142983bab8</tstamps>
+    </comp>
+    <comp ref="SW23">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98d5552e-5d6d-4ae9-a33a-45bf18e47277</tstamps>
+    </comp>
+    <comp ref="SW24">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7baff420-caef-485e-a45d-cb39b1e42a80</tstamps>
+    </comp>
+    <comp ref="SW25">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd8f27d2-8966-452f-9d45-f0a8705f3f54</tstamps>
+    </comp>
+    <comp ref="SW26">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e14b7a16-861d-43b3-a557-965413910aaa</tstamps>
+    </comp>
+    <comp ref="SW27">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>afe9b870-e4a8-46a7-b062-38bcc998cc13</tstamps>
+    </comp>
+    <comp ref="SW28">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>849815fa-13e5-4a89-812f-1cade0ae9a80</tstamps>
+    </comp>
+    <comp ref="SW29">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02bc6577-f673-4c89-be49-3cb073ec203f</tstamps>
+    </comp>
+    <comp ref="SW30">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1fdc7a59-12dd-4c64-acfe-693c44640ee7</tstamps>
+    </comp>
+    <comp ref="SW31">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5896687c-e9a8-4aef-a628-1eb2b86ccd16</tstamps>
+    </comp>
+    <comp ref="SW31-3U1">
+      <value>3U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5bdbe81a-a696-497e-8d8c-27c3147d706a</tstamps>
+    </comp>
+    <comp ref="SW32">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc4acc22-d93a-4a75-8245-10d1797a8351</tstamps>
+    </comp>
+    <comp ref="SW33">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac83af09-d2de-4041-84e1-c015bef40c0e</tstamps>
+    </comp>
+    <comp ref="SW34">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71d008b2-2f79-42bb-b073-546810615109</tstamps>
+    </comp>
+    <comp ref="SW35">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3013a66b-c315-40c8-9129-38f01898dc4c</tstamps>
+    </comp>
+    <comp ref="SW36">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d977b1b-6226-4742-a719-75c269e3c773</tstamps>
+    </comp>
+    <comp ref="SW37">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e382010-e912-467b-afbf-e878e68e93f0</tstamps>
+    </comp>
+    <comp ref="SW38">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2cd7edd0-7bdf-467a-8ca6-b9ba77f6b2c8</tstamps>
+    </comp>
+    <comp ref="SW39">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>37937c60-bac4-4cfe-b78a-88b61bd78ca6</tstamps>
+    </comp>
+    <comp ref="SW40">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d975b482-c4fa-4588-a553-a4113fe1ea6e</tstamps>
+    </comp>
+    <comp ref="SW41">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61e065fe-7f18-4dd6-80ba-1b70203fa25d</tstamps>
+    </comp>
+    <comp ref="SW42">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f62e506-845a-4953-898a-24293b6f7005</tstamps>
+    </comp>
+    <comp ref="SW43">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c5c9c34-201f-450e-9dd3-a629584b5e33</tstamps>
+    </comp>
+    <comp ref="SW44">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05fb3735-4506-4de4-9ec8-4c32145858e5</tstamps>
+    </comp>
+    <comp ref="SW45">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b196398a-7bda-4c27-a917-d5a29d7a5385</tstamps>
+    </comp>
+    <comp ref="SW46">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d098650-ded2-4f14-87d2-148d58728a29</tstamps>
+    </comp>
+    <comp ref="SW47">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5fcbf5c-9d96-4464-b8b9-aaaf27d96168</tstamps>
+    </comp>
+    <comp ref="SW48">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f24aeb96-f497-4da8-a8bd-0a8a3e7e7b93</tstamps>
+    </comp>
+    <comp ref="SW49">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c29d205-104e-44e5-a38d-bb0edd5fc14c</tstamps>
+    </comp>
+    <comp ref="SW50">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>491b6dfb-1db4-4603-a59f-601def3b9fa5</tstamps>
+    </comp>
+    <comp ref="SW51">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8dadf35-90c7-45ed-aaeb-096fb91d360b</tstamps>
+    </comp>
+    <comp ref="SW52">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3872de1-48d3-49d8-841b-cb674a63af2a</tstamps>
+    </comp>
+    <comp ref="SW53">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>308335ec-1ef8-48a9-9cd2-b9f0e45294e4</tstamps>
+    </comp>
+    <comp ref="SW54">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>814f87d9-472d-4b23-9045-af0e78283330</tstamps>
+    </comp>
+    <comp ref="SW55">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3dd555ff-d020-4563-956e-04cf284f4f97</tstamps>
+    </comp>
+    <comp ref="SW56">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5f8bf2c-5ca6-4953-bdf5-9aeaa9714107</tstamps>
+    </comp>
+    <comp ref="SW57">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b1dbd91-fc7b-495b-baec-a07314b57f52</tstamps>
+    </comp>
+    <comp ref="SW58">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05f53e5d-ee70-4440-905e-bb60ba6fc18a</tstamps>
+    </comp>
+    <comp ref="SW59">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dec05644-403a-4212-afb9-fcb18f0df8e1</tstamps>
+    </comp>
+    <comp ref="SW60">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f288599b-576b-4471-82c1-fe60babc1cc6</tstamps>
+    </comp>
+    <comp ref="SW61">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>334c18a6-581b-4761-9eb3-26d4a4139994</tstamps>
+    </comp>
+    <comp ref="SW62">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>401e9e17-04de-4ec9-aa61-9a00d79eda60</tstamps>
+    </comp>
+    <comp ref="SW63">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f36875f-9f05-436b-8d5f-530e45028701</tstamps>
+    </comp>
+    <comp ref="SW64">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66746a4f-e5ce-4466-8c8e-8821f3d1fd45</tstamps>
+    </comp>
+    <comp ref="SW64-2U1">
+      <value>2U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f36097e-775e-4e90-ba1d-39dfec2abc32</tstamps>
+    </comp>
+    <comp ref="SW65">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bd1eded-bbd3-492a-b567-0b4afafb0b74</tstamps>
+    </comp>
+    <comp ref="SW66">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba804684-676d-4f67-bbf3-c011d8a54262</tstamps>
+    </comp>
+    <comp ref="SW67">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>360240fd-af22-48cc-8cf5-7e3e35b8b0e8</tstamps>
+    </comp>
+    <comp ref="SW68">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c540a6f-b676-4a1e-9762-891d994dea3e</tstamps>
+    </comp>
+    <comp ref="SW69">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7808a22-ca53-4c9a-8e4d-53dc5f2a6a1f</tstamps>
+    </comp>
+    <comp ref="SW70">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3cc92624-c63c-4f2a-be81-ab8ad46a519c</tstamps>
+    </comp>
+    <comp ref="SW71">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a2533c3-67d5-4f44-86da-1c105695b0b8</tstamps>
+    </comp>
+    <comp ref="SW72">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>872532c8-b7f1-44b3-99be-3ce05ea7aef0</tstamps>
+    </comp>
+    <comp ref="SW73">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96f84131-046d-42a8-a9d1-b08df3a96769</tstamps>
+    </comp>
+    <comp ref="SW74">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a5d5313-22bf-4fd5-823a-b82f8c3ccbb2</tstamps>
+    </comp>
+    <comp ref="SW75">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4905ff48-d91a-4af7-a4ea-19367cc02c57</tstamps>
+    </comp>
+    <comp ref="SW76">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e17ee63-63e2-4881-8f6f-39ad0e64cab1</tstamps>
+    </comp>
+    <comp ref="SW77">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>effbfa5d-e1f3-4a10-8b97-8d7246bd0540</tstamps>
+    </comp>
+    <comp ref="SW78">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bcfb35dd-7390-4e52-b51f-e77576f33de4</tstamps>
+    </comp>
+    <comp ref="SW79">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6097a068-b18d-4ef3-9822-9f5de5d92234</tstamps>
+    </comp>
+    <comp ref="SW80">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bba9cc3a-2e3e-4538-a562-3cddb486e19a</tstamps>
+    </comp>
+    <comp ref="SW81">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3469965d-50c6-4b2c-a204-ad4cbfcba0d0</tstamps>
+    </comp>
+    <comp ref="SW82">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49709d32-b89b-48ad-abb9-83db7cf76460</tstamps>
+    </comp>
+    <comp ref="SW83">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce1241c8-092d-4dc6-9aaf-69e414f1cb3d</tstamps>
+    </comp>
+    <comp ref="SW84">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fca30e36-478b-4ade-8db2-1f942c347997</tstamps>
+    </comp>
+    <comp ref="SW84-2U1">
+      <value>2U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20318b4b-6681-4a0f-8fb9-a62869dcd8e9</tstamps>
+    </comp>
+    <comp ref="SW85">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ca9f7fe-029c-4a4e-b0d7-b9c5026fc66e</tstamps>
+    </comp>
+    <comp ref="SW86">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9301f94-2b92-41ed-b3ad-e10676e58c33</tstamps>
+    </comp>
+    <comp ref="SW87">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b378648-bad0-4714-b192-2213ce782076</tstamps>
+    </comp>
+    <comp ref="SW88">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>622b77db-b21d-4a61-8622-bffb0b56ba8e</tstamps>
+    </comp>
+    <comp ref="SW89">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f7090a5-b625-4015-8bc1-6e0b95ff4bdc</tstamps>
+    </comp>
+    <comp ref="SW90">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>056a3153-7d80-4fb1-aec6-9f00c9413f20</tstamps>
+    </comp>
+    <comp ref="SW91">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c035cd7-d635-4423-ad51-2c3af30010fa</tstamps>
+    </comp>
+    <comp ref="SW93">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2723dc5d-1748-4c54-affb-7cfcbdf228e6</tstamps>
+    </comp>
+    <comp ref="SW94">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1db626e3-8fb1-488a-9c77-9beaf427f4b9</tstamps>
+    </comp>
+    <comp ref="SW95">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17cfd05c-96e0-47fa-81ee-6c9bae6a6886</tstamps>
+    </comp>
+    <comp ref="SW96">
+      <value>1U</value>
+      <footprint>foostan-parts:CherryMX_Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push_45deg" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb84908b-5cf3-4c14-8592-1c85b635f10e</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>Pico</value>
+      <footprint>MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH</footprint>
+      <libsource lib="MCU_RaspberryPi_and_Boards" part="Pico" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ortholith.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7471a55-636f-4ea9-b92a-8a6911c98720</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4148W">
+      <description>75V 0.15A Fast Switching Diode, SOD-123</description>
+      <docs>https://www.vishay.com/docs/85748/1n4148w.pdf</docs>
+      <footprints>
+        <fp>D*SOD?123*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148W</field>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet">https://www.vishay.com/docs/85748/1n4148w.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_RaspberryPi_and_Boards" part="Pico">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Pico</field>
+        <field name="Footprint">RPi_Pico:RPi_Pico_SMD_TH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GPIO0" type="bidirectional"/>
+        <pin num="2" name="GPIO1" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="GPIO2" type="bidirectional"/>
+        <pin num="5" name="GPIO3" type="bidirectional"/>
+        <pin num="6" name="GPIO4" type="bidirectional"/>
+        <pin num="7" name="GPIO5" type="bidirectional"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="GPIO6" type="bidirectional"/>
+        <pin num="10" name="GPIO7" type="bidirectional"/>
+        <pin num="11" name="GPIO8" type="bidirectional"/>
+        <pin num="12" name="GPIO9" type="bidirectional"/>
+        <pin num="13" name="GND" type="power_in"/>
+        <pin num="14" name="GPIO10" type="bidirectional"/>
+        <pin num="15" name="GPIO11" type="bidirectional"/>
+        <pin num="16" name="GPIO12" type="bidirectional"/>
+        <pin num="17" name="GPIO13" type="bidirectional"/>
+        <pin num="18" name="GND" type="power_in"/>
+        <pin num="19" name="GPIO14" type="bidirectional"/>
+        <pin num="20" name="GPIO15" type="bidirectional"/>
+        <pin num="21" name="GPIO16" type="bidirectional"/>
+        <pin num="22" name="GPIO17" type="bidirectional"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="GPIO18" type="bidirectional"/>
+        <pin num="25" name="GPIO19" type="bidirectional"/>
+        <pin num="26" name="GPIO20" type="bidirectional"/>
+        <pin num="27" name="GPIO21" type="bidirectional"/>
+        <pin num="28" name="GND" type="power_in"/>
+        <pin num="29" name="GPIO22" type="bidirectional"/>
+        <pin num="30" name="RUN" type="input"/>
+        <pin num="31" name="GPIO26_ADC0" type="bidirectional"/>
+        <pin num="32" name="GPIO27_ADC1" type="bidirectional"/>
+        <pin num="33" name="AGND" type="power_in"/>
+        <pin num="34" name="GPIO28_ADC2" type="bidirectional"/>
+        <pin num="35" name="ADC_VREF" type="power_in"/>
+        <pin num="36" name="3V3" type="power_in"/>
+        <pin num="37" name="3V3_EN" type="input"/>
+        <pin num="38" name="GND" type="bidirectional"/>
+        <pin num="39" name="VSYS" type="power_in"/>
+        <pin num="40" name="VBUS" type="power_in"/>
+        <pin num="41" name="SWCLK" type="input"/>
+        <pin num="42" name="GND" type="power_in"/>
+        <pin num="43" name="SWDIO" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push_45deg">
+      <description>Push button switch, normally open, two pins, 45° tilted</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push_45deg</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="MCU_RaspberryPi_and_Boards">
+      <uri>D:\Github\Ortholith\Ortholith v03/MCU_RaspberryPi_and_Boards.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="3V3">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="36" pinfunction="3V3" pintype="power_in"/>
+    </net>
+    <net code="2" name="Col0">
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="GPIO10" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="Col1">
+      <node ref="SW10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW13" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW14" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW15-2u1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW16" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="GPIO11" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="Col2">
+      <node ref="SW17" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW18" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW19" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW20" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW21" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW22" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW24" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="GPIO12" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="Col3">
+      <node ref="SW25" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW26" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW27" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW28" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW29" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW30" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW31-3U1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW32" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="GPIO13" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="Col4">
+      <node ref="SW33" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW34" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW35" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW36" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW37" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW38" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW40" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="GPIO14" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="Col5">
+      <node ref="SW41" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW42" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW43" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW44" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW45" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW46" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW48" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="GPIO15" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="Col6">
+      <node ref="SW49" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW50" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW51" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW52" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW53" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW54" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW55" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW56" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="GPIO22" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="Col7">
+      <node ref="SW57" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW58" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW59" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW60" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW61" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW62" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW63" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW64-2U1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="GPIO21" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="Col8">
+      <node ref="SW65" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW66" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW67" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW68" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW69" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW70" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW71" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="GPIO20" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="Col9">
+      <node ref="SW73" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW74" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW75" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW76" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW77" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW78" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW79" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW80" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="GPIO19" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="Col10">
+      <node ref="SW81" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW82" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW83" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW84-2U1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW85" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW86" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW87" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW88" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="GPIO18" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="Col11">
+      <node ref="SW89" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW90" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW91" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW93" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW94" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW95" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW96" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="GPIO17" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="Col12">
+      <node ref="SW15" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW23" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW31" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW39" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW47" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW64" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW72" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW84" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="GPIO16" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="GND">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="18" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="23" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="28" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="38" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U1" pin="8" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="16" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW8" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW9" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW10" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW11" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW12" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW13" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW14" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW15-2u1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW16" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW17" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D18-Pad2)">
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW18" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW19" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW20" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW21" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW22" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW15" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D24-Pad2)">
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW24" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D25-Pad2)">
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW25" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D26-Pad2)">
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW26" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D27-Pad2)">
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW27" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D28-Pad2)">
+      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW28" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D29-Pad2)">
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW29" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D30-Pad2)">
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW30" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D31-Pad2)">
+      <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW31-3U1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D32-Pad2)">
+      <node ref="D32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW32" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D33-Pad2)">
+      <node ref="D33" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW33" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D34-Pad2)">
+      <node ref="D34" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW34" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(D35-Pad2)">
+      <node ref="D35" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW35" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D36-Pad2)">
+      <node ref="D36" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW36" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D37-Pad2)">
+      <node ref="D37" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW37" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D38-Pad2)">
+      <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW38" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D39-Pad2)">
+      <node ref="D39" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW23" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D40-Pad2)">
+      <node ref="D40" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW40" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(D41-Pad2)">
+      <node ref="D41" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW41" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(D42-Pad2)">
+      <node ref="D42" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW42" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D43-Pad2)">
+      <node ref="D43" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW43" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(D44-Pad2)">
+      <node ref="D44" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW44" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(D45-Pad2)">
+      <node ref="D45" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW45" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(D46-Pad2)">
+      <node ref="D46" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW46" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(D47-Pad2)">
+      <node ref="D47" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW31" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(D48-Pad2)">
+      <node ref="D48" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW48" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(D49-Pad2)">
+      <node ref="D49" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW49" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(D50-Pad2)">
+      <node ref="D50" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW50" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(D51-Pad2)">
+      <node ref="D51" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW51" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(D52-Pad2)">
+      <node ref="D52" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW52" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(D53-Pad2)">
+      <node ref="D53" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW53" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(D54-Pad2)">
+      <node ref="D54" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW54" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(D55-Pad2)">
+      <node ref="D55" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW55" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(D56-Pad2)">
+      <node ref="D56" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW56" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(D57-Pad2)">
+      <node ref="D57" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW57" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(D58-Pad2)">
+      <node ref="D58" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW58" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(D59-Pad2)">
+      <node ref="D59" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW59" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(D60-Pad2)">
+      <node ref="D60" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW60" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(D61-Pad2)">
+      <node ref="D61" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW61" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(D62-Pad2)">
+      <node ref="D62" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW62" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(D63-Pad2)">
+      <node ref="D63" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW63" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(D64-Pad2)">
+      <node ref="D64" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW64-2U1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(D65-Pad2)">
+      <node ref="D65" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW65" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(D66-Pad2)">
+      <node ref="D66" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW66" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(D67-Pad2)">
+      <node ref="D67" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW67" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(D68-Pad2)">
+      <node ref="D68" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW68" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(D69-Pad2)">
+      <node ref="D69" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW69" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(D70-Pad2)">
+      <node ref="D70" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW70" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(D71-Pad2)">
+      <node ref="D71" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW71" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(D72-Pad2)">
+      <node ref="D72" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW39" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(D73-Pad2)">
+      <node ref="D73" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW73" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(D74-Pad2)">
+      <node ref="D74" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW74" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(D75-Pad2)">
+      <node ref="D75" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW75" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="91" name="Net-(D76-Pad2)">
+      <node ref="D76" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW76" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="92" name="Net-(D77-Pad2)">
+      <node ref="D77" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW77" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="93" name="Net-(D78-Pad2)">
+      <node ref="D78" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW78" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="94" name="Net-(D79-Pad2)">
+      <node ref="D79" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW79" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="95" name="Net-(D80-Pad2)">
+      <node ref="D80" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW80" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="96" name="Net-(D81-Pad2)">
+      <node ref="D81" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW81" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="97" name="Net-(D82-Pad2)">
+      <node ref="D82" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW82" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="98" name="Net-(D83-Pad2)">
+      <node ref="D83" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW83" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="99" name="Net-(D84-Pad2)">
+      <node ref="D84" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW84-2U1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="100" name="Net-(D85-Pad2)">
+      <node ref="D85" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW85" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="101" name="Net-(D86-Pad2)">
+      <node ref="D86" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW86" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="102" name="Net-(D87-Pad2)">
+      <node ref="D87" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW87" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="103" name="Net-(D88-Pad2)">
+      <node ref="D88" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW88" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="104" name="Net-(D89-Pad2)">
+      <node ref="D89" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW89" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="105" name="Net-(D90-Pad2)">
+      <node ref="D90" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW90" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="106" name="Net-(D91-Pad2)">
+      <node ref="D91" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW91" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="107" name="Net-(D92-Pad2)">
+      <node ref="D92" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW47" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="108" name="Net-(D93-Pad2)">
+      <node ref="D93" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW93" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="109" name="Net-(D94-Pad2)">
+      <node ref="D94" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW94" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="110" name="Net-(D95-Pad2)">
+      <node ref="D95" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW95" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="111" name="Net-(D96-Pad2)">
+      <node ref="D96" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW96" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="112" name="Net-(D97-Pad2)">
+      <node ref="D97" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW64" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="113" name="Net-(D98-Pad2)">
+      <node ref="D98" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW72" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="114" name="Net-(D99-Pad2)">
+      <node ref="D99" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW84" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="115" name="Row0">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D33" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D41" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D49" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D57" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D65" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D73" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D81" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D89" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GPIO2" pintype="bidirectional"/>
+    </net>
+    <net code="116" name="Row1">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D34" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D39" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D42" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D50" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D58" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D66" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D74" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D82" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D90" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="GPIO3" pintype="bidirectional"/>
+    </net>
+    <net code="117" name="Row2">
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D35" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D43" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D47" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D51" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D59" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D67" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D75" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D83" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D91" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="GPIO4" pintype="bidirectional"/>
+    </net>
+    <net code="118" name="Row3">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D36" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D44" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D52" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D60" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D68" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D72" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D76" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D84" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="GPIO5" pintype="bidirectional"/>
+    </net>
+    <net code="119" name="Row4">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D37" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D45" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D53" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D61" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D69" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D77" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D85" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D92" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D93" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="GPIO6" pintype="bidirectional"/>
+    </net>
+    <net code="120" name="Row5">
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D38" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D46" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D54" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D62" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D70" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D78" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D86" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D94" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D97" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="GPIO7" pintype="bidirectional"/>
+    </net>
+    <net code="121" name="Row6">
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D55" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D63" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D71" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D79" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D87" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D95" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D98" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="GPIO8" pintype="bidirectional"/>
+    </net>
+    <net code="122" name="Row7">
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D40" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D48" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D56" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D64" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D80" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D88" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D96" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D99" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="GPIO9" pintype="bidirectional"/>
+    </net>
+    <net code="123" name="SCL">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GPIO1" pintype="bidirectional"/>
+    </net>
+    <net code="124" name="SDA">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GPIO0" pintype="bidirectional"/>
+    </net>
+    <net code="125" name="unconnected-(U1-Pad30)">
+      <node ref="U1" pin="30" pinfunction="RUN" pintype="input+no_connect"/>
+    </net>
+    <net code="126" name="unconnected-(U1-Pad31)">
+      <node ref="U1" pin="31" pinfunction="GPIO26_ADC0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="127" name="unconnected-(U1-Pad32)">
+      <node ref="U1" pin="32" pinfunction="GPIO27_ADC1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="128" name="unconnected-(U1-Pad33)">
+      <node ref="U1" pin="33" pinfunction="AGND" pintype="power_in+no_connect"/>
+    </net>
+    <net code="129" name="unconnected-(U1-Pad34)">
+      <node ref="U1" pin="34" pinfunction="GPIO28_ADC2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="130" name="unconnected-(U1-Pad35)">
+      <node ref="U1" pin="35" pinfunction="ADC_VREF" pintype="power_in+no_connect"/>
+    </net>
+    <net code="131" name="unconnected-(U1-Pad37)">
+      <node ref="U1" pin="37" pinfunction="3V3_EN" pintype="input+no_connect"/>
+    </net>
+    <net code="132" name="unconnected-(U1-Pad39)">
+      <node ref="U1" pin="39" pinfunction="VSYS" pintype="power_in+no_connect"/>
+    </net>
+    <net code="133" name="unconnected-(U1-Pad40)">
+      <node ref="U1" pin="40" pinfunction="VBUS" pintype="power_in+no_connect"/>
+    </net>
+    <net code="134" name="unconnected-(U1-Pad41)">
+      <node ref="U1" pin="41" pinfunction="SWCLK" pintype="input+no_connect"/>
+    </net>
+    <net code="135" name="unconnected-(U1-Pad42)">
+      <node ref="U1" pin="42" pinfunction="GND" pintype="power_in+no_connect"/>
+    </net>
+    <net code="136" name="unconnected-(U1-Pad43)">
+      <node ref="U1" pin="43" pinfunction="SWDIO" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
